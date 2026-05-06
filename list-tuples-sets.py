@@ -21,7 +21,7 @@ num = [1,2,3,4,5]
 # print(min(num), max(num), sum(num), num.index(3), 6 in num, 4 in num)
 
 # for index, course in enumerate(courses, start=1):
-    # print(index, course)
+#     print(index, course)
 
 course_str = ', '.join(courses)
 # print(course_str)
